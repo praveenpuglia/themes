@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="382" font-family="ui-monospace,Menlo,monospace">
+<rect width="760" height="382" rx="16" fill="#f4f4f0"/>
+<text x="28" y="50" font-size="22" font-weight="700" fill="#2c333d">Soft Day  ·  light</text>
+<rect x="28.0" y="66" width="168.5" height="64" rx="8" fill="#f4f4f0" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="38.0" y="92" font-size="12" font-weight="600" fill="#000000">background</text>
+<text x="38.0" y="112" font-size="12" fill="#000000" opacity="0.85">#f4f4f0</text>
+<rect x="206.5" y="66" width="168.5" height="64" rx="8" fill="#2c333d" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="216.5" y="92" font-size="12" font-weight="600" fill="#ffffff">foreground</text>
+<text x="216.5" y="112" font-size="12" fill="#ffffff" opacity="0.85">#2c333d</text>
+<rect x="385.0" y="66" width="168.5" height="64" rx="8" fill="#dfe4cf" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="395.0" y="92" font-size="12" font-weight="600" fill="#000000">selection</text>
+<text x="395.0" y="112" font-size="12" fill="#000000" opacity="0.85">#dfe4cf</text>
+<rect x="563.5" y="66" width="168.5" height="64" rx="8" fill="#c1453a" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="573.5" y="92" font-size="12" font-weight="600" fill="#ffffff">cursor</text>
+<text x="573.5" y="112" font-size="12" fill="#ffffff" opacity="0.85">#c1453a</text>
+<rect x="28" y="154" width="84" height="84" rx="8" fill="#3a4452" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="37" y="174" font-size="11" font-weight="600" fill="#ffffff">black</text>
+<text x="37" y="226" font-size="11" fill="#ffffff" opacity="0.9">#3a4452</text>
+<rect x="122" y="154" width="84" height="84" rx="8" fill="#c1453a" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="131" y="174" font-size="11" font-weight="600" fill="#ffffff">red</text>
+<text x="131" y="226" font-size="11" fill="#ffffff" opacity="0.9">#c1453a</text>
+<rect x="216" y="154" width="84" height="84" rx="8" fill="#3f8a3a" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="225" y="174" font-size="11" font-weight="600" fill="#ffffff">green</text>
+<text x="225" y="226" font-size="11" fill="#ffffff" opacity="0.9">#3f8a3a</text>
+<rect x="310" y="154" width="84" height="84" rx="8" fill="#9a6a00" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="319" y="174" font-size="11" font-weight="600" fill="#ffffff">yellow</text>
+<text x="319" y="226" font-size="11" fill="#ffffff" opacity="0.9">#9a6a00</text>
+<rect x="404" y="154" width="84" height="84" rx="8" fill="#2b6fb8" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="413" y="174" font-size="11" font-weight="600" fill="#ffffff">blue</text>
+<text x="413" y="226" font-size="11" fill="#ffffff" opacity="0.9">#2b6fb8</text>
+<rect x="498" y="154" width="84" height="84" rx="8" fill="#9b4bb3" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="507" y="174" font-size="11" font-weight="600" fill="#ffffff">magenta</text>
+<text x="507" y="226" font-size="11" fill="#ffffff" opacity="0.9">#9b4bb3</text>
+<rect x="592" y="154" width="84" height="84" rx="8" fill="#1f8a8a" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="601" y="174" font-size="11" font-weight="600" fill="#ffffff">cyan</text>
+<text x="601" y="226" font-size="11" fill="#ffffff" opacity="0.9">#1f8a8a</text>
+<rect x="686" y="154" width="84" height="84" rx="8" fill="#5c6773" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="695" y="174" font-size="11" font-weight="600" fill="#ffffff">white</text>
+<text x="695" y="226" font-size="11" fill="#ffffff" opacity="0.9">#5c6773</text>
+<rect x="28" y="248" width="84" height="84" rx="8" fill="#8a93a0" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="37" y="268" font-size="11" font-weight="600" fill="#000000">br.black</text>
+<text x="37" y="320" font-size="11" fill="#000000" opacity="0.9">#8a93a0</text>
+<rect x="122" y="248" width="84" height="84" rx="8" fill="#d35650" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="131" y="268" font-size="11" font-weight="600" fill="#ffffff">br.red</text>
+<text x="131" y="320" font-size="11" fill="#ffffff" opacity="0.9">#d35650</text>
+<rect x="216" y="248" width="84" height="84" rx="8" fill="#4ba343" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="225" y="268" font-size="11" font-weight="600" fill="#ffffff">br.green</text>
+<text x="225" y="320" font-size="11" fill="#ffffff" opacity="0.9">#4ba343</text>
+<rect x="310" y="248" width="84" height="84" rx="8" fill="#b58300" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="319" y="268" font-size="11" font-weight="600" fill="#ffffff">br.yellow</text>
+<text x="319" y="320" font-size="11" fill="#ffffff" opacity="0.9">#b58300</text>
+<rect x="404" y="248" width="84" height="84" rx="8" fill="#3a82d2" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="413" y="268" font-size="11" font-weight="600" fill="#ffffff">br.blue</text>
+<text x="413" y="320" font-size="11" fill="#ffffff" opacity="0.9">#3a82d2</text>
+<rect x="498" y="248" width="84" height="84" rx="8" fill="#b35ec9" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="507" y="268" font-size="11" font-weight="600" fill="#ffffff">br.magenta</text>
+<text x="507" y="320" font-size="11" fill="#ffffff" opacity="0.9">#b35ec9</text>
+<rect x="592" y="248" width="84" height="84" rx="8" fill="#2aa3a3" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="601" y="268" font-size="11" font-weight="600" fill="#ffffff">br.cyan</text>
+<text x="601" y="320" font-size="11" fill="#ffffff" opacity="0.9">#2aa3a3</text>
+<rect x="686" y="248" width="84" height="84" rx="8" fill="#2c333d" stroke="#5c6773" stroke-opacity="0.35"/>
+<text x="695" y="268" font-size="11" font-weight="600" fill="#ffffff">br.white</text>
+<text x="695" y="320" font-size="11" fill="#ffffff" opacity="0.9">#2c333d</text>
+</svg>

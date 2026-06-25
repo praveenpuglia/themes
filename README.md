@@ -1,9 +1,19 @@
 # Soft Themes
 
-Warm, high-contrast, easy-on-the-eyes themes built on a shared palette.
+High-contrast, easy-on-the-eyes themes built on a shared palette.
 
-- **Soft Day** — light, warm off-white (`#f6f3ec`) on dark slate (`#2c333d`)
+- **Soft Day** — light, near-neutral soft-white (`#f4f4f0`) on dark slate (`#2c333d`)
 - **Soft Night** — dark, dark slate (`#1c2128`) on soft fog (`#d4dae3`)
+
+Each palette below drives both the Ghostty and VS Code versions of that theme.
+
+### Soft Day
+
+![Soft Day palette](images/soft-day-palette.svg)
+
+### Soft Night
+
+![Soft Night palette](images/soft-night-palette.svg)
 
 ## Ghostty
 
