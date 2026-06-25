@@ -1,0 +1,27 @@
+{
+  "name": "soft-day",
+  "displayName": "Soft Day",
+  "description": "A high-contrast, easy-on-the-eyes light theme. Matches the Soft Day Ghostty terminal palette.",
+  "version": "0.1.0",
+  "publisher": "praveenpuglia",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/praveenpuglia/themes.git"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Soft Day",
+        "uiTheme": "vs",
+        "path": "./soft-day-color-theme.json"
+      }
+    ]
+  }
+}

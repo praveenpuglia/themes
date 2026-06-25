@@ -1,0 +1,27 @@
+{
+  "name": "soft-night",
+  "displayName": "Soft Night",
+  "description": "A high-contrast, easy-on-the-eyes dark theme. Matches the Soft Night Ghostty terminal palette.",
+  "version": "0.1.0",
+  "publisher": "praveenpuglia",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/praveenpuglia/themes.git"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Soft Night",
+        "uiTheme": "vs-dark",
+        "path": "./soft-night-color-theme.json"
+      }
+    ]
+  }
+}
