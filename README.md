@@ -5,12 +5,12 @@ High-contrast, easy-on-the-eyes themes built on a shared palette.
 - **Soft Day** — light, near-neutral soft-white (`#f4f4f0`) on dark slate (`#2c333d`)
 - **Soft Night** — dark, dark slate (`#1c2128`) on soft fog (`#d4dae3`)
 
-Each palette below drives both the Ghostty and VS Code versions of that theme.
+Each palette below drives the Ghostty, VS Code, and Zed versions of that theme.
 
 ```
 soft/
-  light/   ghostty/  vscode/  soft-day-palette.svg
-  dark/    ghostty/  vscode/  soft-night-palette.svg
+  light/   ghostty/  vscode/  zed/  soft-day-palette.svg
+  dark/    ghostty/  vscode/  zed/  soft-night-palette.svg
 ```
 
 ### Soft Day
@@ -43,3 +43,14 @@ ln -sfn "$PWD/soft/dark/vscode"  ~/.vscode/extensions/soft-night
 ```
 
 Both cover the full workbench color surface, TextMate `tokenColors`, and semantic highlighting.
+
+## Zed
+
+Copy (or symlink) the theme files into your Zed themes directory:
+
+```sh
+ln -sfn "$PWD/soft/dark/zed/soft-night.json" ~/.config/zed/themes/soft-night.json
+ln -sfn "$PWD/soft/light/zed/soft-day.json" ~/.config/zed/themes/soft-day.json
+```
+
+Then select **Soft Night** or **Soft Day** from the theme picker (`Cmd+K Cmd+T`).
