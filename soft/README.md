@@ -9,8 +9,8 @@ Each palette below drives the Ghostty, VS Code, and Zed versions of that theme.
 
 ```
 soft/
-  light/   ghostty/  vscode/  zed/  soft-day-palette.svg
-  dark/    ghostty/  vscode/  zed/  soft-night-palette.svg
+  light/   ghostty/  vscode/  zed/  bat/  soft-day-palette.svg
+  dark/    ghostty/  vscode/  zed/  bat/  soft-night-palette.svg
 ```
 
 ### Soft Day
@@ -54,3 +54,20 @@ ln -sfn "$PWD/light/zed/soft-day.json" ~/.config/zed/themes/soft-day.json
 ```
 
 Then select **Soft Night** or **Soft Day** from the theme picker (`Cmd+K Cmd+T`).
+
+## bat
+
+Copy the `.tmTheme` files into bat's themes directory and rebuild its cache:
+
+```sh
+mkdir -p "$(bat --config-dir)/themes"
+cp "light/bat/Soft Day.tmTheme" "dark/bat/Soft Night.tmTheme" "$(bat --config-dir)/themes/"
+bat cache --build
+```
+
+Then use a variant per invocation or set it as the default:
+
+```sh
+bat --theme="Soft Night" file.js          # one-off
+echo '--theme="Soft Night"' >> "$(bat --config-dir)/config"   # default
+```
